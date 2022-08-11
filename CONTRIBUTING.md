@@ -1,4 +1,4 @@
-# Contributing Guidelines
+# Contributing Guideline
 
 ## Welcome to SigNoz Contributing section 🎉
 
